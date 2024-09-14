@@ -27,7 +27,7 @@
 - **開発：**
     - 言語/フレームワーク： Node.js / React / TypeScript
     - データベース： MongoDB / Redis
-    - DevOps： Docker / Jenkins / Kubernetes
+    - DevOps： Docker / Jenkins / Kubernetes / webpack
 - **主な成果：**
     - 外部APIを使用した、翻訳処理を使用した機能作成
     - React Hooks (useState, useEffect) での状態管理でのイベント処理作成
