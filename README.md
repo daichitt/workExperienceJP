@@ -10,6 +10,20 @@
 
 **職種：ソフトウェアエンジニア**
 
+## 1. 営業支援システム
+
+- **期間：** 2025/12〜2026
+- **担当：** インフラ構築・DevOps・フルスタックエンジニア
+- **クラウド：** Microsoft Azure
+- **IaC：** Terraform
+- **CI/CD：** GitHub Actions
+- **コンテナ：** Docker
+- **言語/フレームワーク：** Python (FastAPI) / TypeScript (Next.js)
+- **開発：**
+    - Terraformを使用したAzure環境のIaC構築（ACR、App Service、MySQL、Key Vault、Front Door等）
+    - GitHub Actionsによる自動デプロイメントパイプライン構築
+    - Dockerマルチステージビルドによる最適化
+
 ## 1. AI 社会シミュレーションツール開発
 
 - **期間：** 2023/11〜 現在
